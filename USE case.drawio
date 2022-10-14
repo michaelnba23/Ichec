@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T09:13:51.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="2XbqXcQ1A0JX_uQCEfgB" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T09:28:42.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="2iifCxpSw42GlBi5jMDr" version="20.4.1" type="github">
   <diagram id="wASeUa2gkvr8eXT3rNuY" name="Page-1">
-    <mxGraphModel dx="1351" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,12 @@
           <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ll9dgY1xtMy6N5WR52BZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ll9dgY1xtMy6N5WR52BZ-16" target="Ll9dgY1xtMy6N5WR52BZ-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="480" />
+              <mxPoint x="340" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ll9dgY1xtMy6N5WR52BZ-16" value="SOUSCRIRE à UNE NOUVELLE ASSURANCE" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
@@ -69,7 +74,7 @@
         <mxCell id="Ll9dgY1xtMy6N5WR52BZ-19" value="Vérifie bonus malus du client" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ll9dgY1xtMy6N5WR52BZ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ll9dgY1xtMy6N5WR52BZ-20">
+        <mxCell id="Ll9dgY1xtMy6N5WR52BZ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ll9dgY1xtMy6N5WR52BZ-20" target="Ll9dgY1xtMy6N5WR52BZ-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="509.9999999999998" as="targetPoint" />
             <Array as="points">
@@ -80,7 +85,7 @@
         </mxCell>
         <mxCell id="Ll9dgY1xtMy6N5WR52BZ-52" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ll9dgY1xtMy6N5WR52BZ-51">
           <mxGeometry x="0.7325" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ll9dgY1xtMy6N5WR52BZ-20" value="saisir une déclaration de sinisitre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -141,6 +146,15 @@
         </mxCell>
         <mxCell id="Ll9dgY1xtMy6N5WR52BZ-48" value="s&#39;identifié" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ll9dgY1xtMy6N5WR52BZ-53" value="INVERSETION ICI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="767" y="470" width="63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ll9dgY1xtMy6N5WR52BZ-55" value="Les use case qu&#39;on met en valeur sont ceux qui apportent le plus de valeur. c&#39;est pour ca que l&#39;identification est en include" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ll9dgY1xtMy6N5WR52BZ-57" value="On pourrait ajouter (Q exam) les modifications, creer un compte, les risques, alternatives&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
