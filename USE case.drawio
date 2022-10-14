@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T09:28:42.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="2iifCxpSw42GlBi5jMDr" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T11:04:52.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="o08XllaujRPYC2mJtzky" version="20.4.1" type="github" pages="2">
   <diagram id="wASeUa2gkvr8eXT3rNuY" name="Page-1">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,6 +155,103 @@
         </mxCell>
         <mxCell id="Ll9dgY1xtMy6N5WR52BZ-57" value="On pourrait ajouter (Q exam) les modifications, creer un compte, les risques, alternatives&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="80" width="400" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BaWQcXAwxOe8-45IVoMw" name="Page-2">
+    <mxGraphModel dx="2178" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="77fN-18UHOtX3pub9Qhj-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="790" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="77fN-18UHOtX3pub9Qhj-2" target="77fN-18UHOtX3pub9Qhj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77fN-18UHOtX3pub9Qhj-2" target="77fN-18UHOtX3pub9Qhj-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="180" />
+              <mxPoint x="270" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="77fN-18UHOtX3pub9Qhj-2" target="77fN-18UHOtX3pub9Qhj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-2" value="Internaute" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77fN-18UHOtX3pub9Qhj-3" target="77fN-18UHOtX3pub9Qhj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-3" value="RObot logiciel" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="710" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="77fN-18UHOtX3pub9Qhj-4" target="77fN-18UHOtX3pub9Qhj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-4" value="Rechercher un film" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77fN-18UHOtX3pub9Qhj-5" target="77fN-18UHOtX3pub9Qhj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-25" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="77fN-18UHOtX3pub9Qhj-24">
+          <mxGeometry x="-0.3166" y="3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-5" value="Remplacer le film" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-6" value="Poster des films" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="77fN-18UHOtX3pub9Qhj-7" target="77fN-18UHOtX3pub9Qhj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-10" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="77fN-18UHOtX3pub9Qhj-9">
+          <mxGeometry x="-0.3377" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-7" value="Acheter quota" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-8" value="Télécharger un film" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="77fN-18UHOtX3pub9Qhj-14" target="77fN-18UHOtX3pub9Qhj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-14" value="Internaute non ID" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="77fN-18UHOtX3pub9Qhj-21" target="77fN-18UHOtX3pub9Qhj-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-50" y="590" />
+              <mxPoint x="-50" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77fN-18UHOtX3pub9Qhj-21" target="77fN-18UHOtX3pub9Qhj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-21" value="Contributeur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="560" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-27" value="Examine film" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-29" value="Extends" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77fN-18UHOtX3pub9Qhj-28" target="77fN-18UHOtX3pub9Qhj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77fN-18UHOtX3pub9Qhj-28" value="Suppression film" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="700" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
