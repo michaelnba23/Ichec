@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T21:30:01.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="0h1yB1bBdmjy8p2wxf9p" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-16T13:49:09.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="FmUmdoIw6xV7mFTg0T5q" version="20.4.1" type="github">
   <diagram id="sLfjdKfzsrojfRRoex2J" name="Page-1">
-    <mxGraphModel dx="1615" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
         <mxCell id="UNbvl4Z_Z1AyvjZRaRcP-25" value="Simulation de prêt&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UNbvl4Z_Z1AyvjZRaRcP-26" value="Introduire données" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UNbvl4Z_Z1AyvjZRaRcP-26" value="Introduire données" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="210" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UNbvl4Z_Z1AyvjZRaRcP-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UNbvl4Z_Z1AyvjZRaRcP-25" target="UNbvl4Z_Z1AyvjZRaRcP-26" edge="1">
