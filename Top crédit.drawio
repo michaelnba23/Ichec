@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T09:44:38.154Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="vFh_HrGm7lPu9SH8uz7K" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T09:45:30.210Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="tfBopX1EwTPiPnJQO8c6" version="20.4.1" type="github">
   <diagram id="sLfjdKfzsrojfRRoex2J" name="Page-1">
     <mxGraphModel dx="1722" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UNbvl4Z_Z1AyvjZRaRcP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="90" width="680" height="930" as="geometry" />
+          <mxGeometry x="70" y="90" width="660" height="930" as="geometry" />
         </mxCell>
         <mxCell id="UNbvl4Z_Z1AyvjZRaRcP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UNbvl4Z_Z1AyvjZRaRcP-4" target="UNbvl4Z_Z1AyvjZRaRcP-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="30" y="150" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNbvl4Z_Z1AyvjZRaRcP-5" value="Agent top crédit" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="770" y="290" width="30" height="60" as="geometry" />
+          <mxGeometry x="760" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNbvl4Z_Z1AyvjZRaRcP-6" value="Directeur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="770" y="885" width="30" height="60" as="geometry" />
