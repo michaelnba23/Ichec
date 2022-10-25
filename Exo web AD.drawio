@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T13:41:10.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="rVRhtWMty7SrXAruwx5r" version="20.4.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-10-25T15:39:11.834Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="3gLkw4IlgfQcqOm3DXWU" version="20.4.2" type="github" pages="9">
   <diagram name="Livraison commande" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1186" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -1293,11 +1293,20 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copie de GRH 2" id="vghuAKQab2Yb-9-Ijrq5">
-    <mxGraphModel dx="1186" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1537" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JNBLxn4YN84Unp838jnz-0" />
         <mxCell id="JNBLxn4YN84Unp838jnz-1" parent="JNBLxn4YN84Unp838jnz-0" />
-        <mxCell id="JNBLxn4YN84Unp838jnz-2" value="Directeur ressources huamaines(DRH)" style="swimlane;" vertex="1" parent="JNBLxn4YN84Unp838jnz-1">
+        <mxCell id="JNBLxn4YN84Unp838jnz-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JNBLxn4YN84Unp838jnz-1" target="JNBLxn4YN84Unp838jnz-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="195" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="480" y="197" />
+              <mxPoint x="512" y="197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JNBLxn4YN84Unp838jnz-2" value="Directeur ressources humaines(DRH)" style="swimlane;" vertex="1" parent="JNBLxn4YN84Unp838jnz-1">
           <mxGeometry x="270" width="390" height="1640" as="geometry" />
         </mxCell>
         <mxCell id="2IhKtE9Idp8d5kpz4jCG-1" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.91;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="JNBLxn4YN84Unp838jnz-2" source="X_nYBmGn01VIo3FsitTt-2" target="X_nYBmGn01VIo3FsitTt-4">
@@ -1342,7 +1351,7 @@
         <mxCell id="JNBLxn4YN84Unp838jnz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JNBLxn4YN84Unp838jnz-2" source="JNBLxn4YN84Unp838jnz-15" target="JNBLxn4YN84Unp838jnz-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JNBLxn4YN84Unp838jnz-15" value="Convocation&amp;nbsp;&lt;br&gt;collabo &amp;amp; manag" style="html=1;" vertex="1" parent="JNBLxn4YN84Unp838jnz-2">
+        <mxCell id="JNBLxn4YN84Unp838jnz-15" value="Convocation&amp;nbsp;&lt;br&gt;collabo &amp;amp; manager" style="html=1;" vertex="1" parent="JNBLxn4YN84Unp838jnz-2">
           <mxGeometry x="57.5" y="410" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNBLxn4YN84Unp838jnz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JNBLxn4YN84Unp838jnz-2" source="JNBLxn4YN84Unp838jnz-17" target="JNBLxn4YN84Unp838jnz-19">
@@ -1457,6 +1466,9 @@
             <mxPoint x="360" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JNBLxn4YN84Unp838jnz-76" value="SI dossier pas complet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JNBLxn4YN84Unp838jnz-2">
+          <mxGeometry x="-60" y="845" width="140" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="JNBLxn4YN84Unp838jnz-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JNBLxn4YN84Unp838jnz-1" source="JNBLxn4YN84Unp838jnz-77" target="JNBLxn4YN84Unp838jnz-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1480,16 +1492,7 @@
         <mxCell id="JNBLxn4YN84Unp838jnz-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JNBLxn4YN84Unp838jnz-1" source="JNBLxn4YN84Unp838jnz-73" target="JNBLxn4YN84Unp838jnz-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JNBLxn4YN84Unp838jnz-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JNBLxn4YN84Unp838jnz-1" target="JNBLxn4YN84Unp838jnz-83">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="195" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="480" y="197" />
-              <mxPoint x="512" y="197" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JNBLxn4YN84Unp838jnz-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JNBLxn4YN84Unp838jnz-1" target="JNBLxn4YN84Unp838jnz-69">
+        <mxCell id="JNBLxn4YN84Unp838jnz-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JNBLxn4YN84Unp838jnz-1" target="JNBLxn4YN84Unp838jnz-69" source="JNBLxn4YN84Unp838jnz-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="195" as="sourcePoint" />
           </mxGeometry>
@@ -1515,9 +1518,9 @@
           <mxGeometry x="130" y="650" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNBLxn4YN84Unp838jnz-72" value="SI promotion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JNBLxn4YN84Unp838jnz-68">
-          <mxGeometry x="180" y="555" width="90" height="30" as="geometry" />
+          <mxGeometry x="220" y="570" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNBLxn4YN84Unp838jnz-73" value="Envoie dossier&amp;nbsp;&lt;br&gt;DRH" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="JNBLxn4YN84Unp838jnz-68">
+        <mxCell id="JNBLxn4YN84Unp838jnz-73" value="Envoie dossier&amp;nbsp;&lt;br&gt;au DRH" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="JNBLxn4YN84Unp838jnz-68">
           <mxGeometry x="130" y="755" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNBLxn4YN84Unp838jnz-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=-0.049;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JNBLxn4YN84Unp838jnz-68" source="JNBLxn4YN84Unp838jnz-75" target="JNBLxn4YN84Unp838jnz-71">
@@ -1525,9 +1528,6 @@
         </mxCell>
         <mxCell id="JNBLxn4YN84Unp838jnz-75" value="" style="rhombus;" vertex="1" parent="JNBLxn4YN84Unp838jnz-68">
           <mxGeometry x="170" y="585" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JNBLxn4YN84Unp838jnz-76" value="SI dossier pas complet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JNBLxn4YN84Unp838jnz-68">
-          <mxGeometry x="60" y="845" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JNBLxn4YN84Unp838jnz-77" value="Bonne reception&lt;br&gt;décision&amp;nbsp;" style="html=1;" vertex="1" parent="JNBLxn4YN84Unp838jnz-68">
           <mxGeometry x="50" y="990" width="110" height="50" as="geometry" />
