@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T18:19:06.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="cxC3mTfoFD0Z2wrOWDtv" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T18:23:59.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="44W2R2j2QVueZVqR6ISj" version="20.8.20" type="github">
   <diagram name="Page-1" id="CPny9vBj1eW2S8USpJcD">
     <mxGraphModel dx="2074" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="hsou_hVJxLvewTwKrY3T-34" value="Informe le client que le paiement est passé et envoie mail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bm2fgD11PDPT4w5N4FDh-2">
           <mxGeometry x="40" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hsou_hVJxLvewTwKrY3T-35" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="Bm2fgD11PDPT4w5N4FDh-2">
+          <mxGeometry x="105" y="1320" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hsou_hVJxLvewTwKrY3T-1" value="CLient" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="50" width="370" height="1280" as="geometry" />
