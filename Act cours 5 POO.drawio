@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T18:00:58.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="yjlJyz64nY_JzNALA8Kc" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T18:01:12.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="7ofwLujXxc7H8CZGfGt8" version="20.8.20" type="github">
   <diagram name="Page-1" id="CPny9vBj1eW2S8USpJcD">
     <mxGraphModel dx="2074" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="hsou_hVJxLvewTwKrY3T-15" value="Rentre le code&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hsou_hVJxLvewTwKrY3T-1">
           <mxGeometry x="140" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hsou_hVJxLvewTwKrY3T-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="hsou_hVJxLvewTwKrY3T-1" source="hsou_hVJxLvewTwKrY3T-18" target="hsou_hVJxLvewTwKrY3T-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hsou_hVJxLvewTwKrY3T-18" value="" style="rhombus;" vertex="1" parent="hsou_hVJxLvewTwKrY3T-1">
           <mxGeometry x="185" y="380" width="30" height="30" as="geometry" />
